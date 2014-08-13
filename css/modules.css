@@ -1,0 +1,91 @@
+.header {
+  font-family: sans-serif;
+  border-bottom: 2px solid black;
+  height:220px;
+}
+
+.header__img {
+  margin-top: 10px;
+  height: 200px;
+  float: left;
+}
+
+.header__title {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.header__contact {
+  text-align: center;
+  line-height: 25%;
+}
+.header__contact__img {
+  height: 50px;
+  width: auto;
+}
+
+.container {
+  font-family: sans-serif;
+}
+
+.container__objective {
+  border-bottom: 2px solid black;
+  text-align: center;
+  line-height: 150%;
+  margin-bottom: 20px;
+}
+
+.container__objective__content {
+  font-size: 1.2em;
+}
+
+.container__workxp {
+  border-bottom: 2px solid black;
+  font-family: sans;
+  height: 425px;
+}
+
+.container__workxp__job {
+  list-style: none;
+  text-align: center;
+  line-height: 125%;
+  font-size: 1.1em;
+}
+
+.container__workxp__job__title {
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height:20%;
+}
+
+.container__workxp__job__description {
+  text-align: left;
+}
+
+.container__certskill {
+  border-bottom: 2px solid black;
+  font-weight: bold;
+  height: 175px;
+}
+
+.container__certskill__content {
+  text-align: center;
+}
+
+.container__certskill__content__list {
+  list-style: none;
+  text-align: left;
+  margin-left: 75px;
+}
+
+.container__education {
+  text-align: center;
+  list-style: none;
+  height: 200px;
+}
+
+.container__education__content {
+  line-height: 20%;
+}
