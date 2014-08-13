@@ -8,3 +8,6 @@ Style it using CSS
 Use SMACSS to style CSS content objectively using BEM naming conventions
 
 Sources:
+http://stackoverflow.com/
+http://www.getskeleton.com/
+https://github.com/necolas/normalize.css/
